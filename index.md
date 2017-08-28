@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+TypeFace - Substratum & CMTE v1.1.4 [Premium]
+Requirements: Android OS 5.0+
+Overview: With TypeFace all Google Web Fonts are just a click away for use with Cyanogen Theme Engine or Substratum! Generate font themes on the fly by downloading fonts available on Google Fonts (http://fonts.google.com). For the power user, TypeFace also provides the option of creating font themes by importing fonts from archives (ZIP/APK) or font files (TTF/OTF).
 
-You can use the [editor on GitHub](https://github.com/anonymous1122/pirates.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+pCyg2RY.png?1
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+TypeFace doesn't work on:
+- CM14 which doesn't have a theme engine yet
+- ROMs without Substratum OMS commits/Masquerade app (Substratum app alone is not enough for font themes to work)
 
-### Markdown
+Follow the development and updates of TypeFace on Google+:
+https://plus.google.com/+DickenChristianMe
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Disclaimer: Some of the fonts may be smaller in size as per their design and/or lack support for local languages. TypeFace has no ability to alter/correct these issues.
 
-```markdown
-Syntax highlighted code block
+WHAT'S NEW
 
-# Header 1
-## Header 2
-### Header 3
+Fixed package parsing errors after building apk
+Premium: Added 2 new fonts
 
-- Bulleted
-- List
+This app has NO advertisements
 
-1. Numbered
-2. List
+More Info:
 
-**Bold** and _Italic_ and `Code` text
+https://play.google.com/store/apps/details?id=pixkart.typeface&hl=en
+Download Instructions:
 
-[Link](url) and ![Image](src)
-```
+ 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/anonymous1122/pirates.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+https://dailyuploads.net/fkurw8s2uhqx
